@@ -1,0 +1,26 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: rgb(95, 90, 80);
+    
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+body{
+
+    background-image: url(./pexels-pixabay-207529.jpg);
+    background-repeat: no-repeat;
+    background-position: center center fixed;
+    background-size: cover;
+
+}
